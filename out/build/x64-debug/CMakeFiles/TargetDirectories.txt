@@ -1,0 +1,3 @@
+C:/Users/thsnf/OneDrive/Masaüstü/DiscordBot/DiscordMusicBot/out/build/x64-debug/CMakeFiles/DiscordMusicBot.dir
+C:/Users/thsnf/OneDrive/Masaüstü/DiscordBot/DiscordMusicBot/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/thsnf/OneDrive/Masaüstü/DiscordBot/DiscordMusicBot/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
